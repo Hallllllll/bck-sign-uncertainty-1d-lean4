@@ -9,6 +9,8 @@ U* = 151745029530798611/500000000000000000  = 0.303490059061597222
 
 Here `U*` is the upward rounding of `t*/(2π)` to the 18-decimal grid. The last sign-changing root of the witness polynomial lies strictly between the exact decimals `1.9068842799708925802167577406` and `1.9068842799708925802167577407`.
 
+Version 1.0.0 is archived on Zenodo. [Version DOI 10.5281/zenodo.24581721](https://doi.org/10.5281/zenodo.24581721)
+
 ## Comparison with Tomar v6
 
 Tejasvi Singh Tomar's v6 Gaussian witness certifies the published radius `5509/10000`, giving the published squared score `30349081/100000000`. Its actual last sign-changing radius was independently isolated in the open interval with rational endpoints `101623087556280535787126849/184467440737095516160000000` and `2032461751125610715742537/3689348814741910323200000`. Squaring gives a score near `0.30349065741836995`, with outward decimal enclosure `[0.303490657418369951824519212483, 0.303490657418369951824519218457]`. [Tomar v6 README](https://raw.githubusercontent.com/tejasvi/sign-uncertainty-constant/v6/README.md) · [Tomar v6 certificate](https://raw.githubusercontent.com/tejasvi/sign-uncertainty-constant/v6/certs/pcert_r05509_NR2.json)

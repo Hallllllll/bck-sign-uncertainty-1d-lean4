@@ -3,6 +3,7 @@ message: "If you use this software, please cite it using this metadata."
 title: "A Lean 4 certificate for the one-dimensional BCK sign uncertainty bound"
 type: software
 version: 1.0.0
+doi: "10.5281/zenodo.24581721"
 authors:
   - name: "BCK Sign Uncertainty Lean 4 Project"
 license: Apache-2.0
