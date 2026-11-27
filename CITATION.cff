@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using this metadata."
+title: "A Lean 4 certificate for the one-dimensional BCK sign uncertainty bound"
+type: software
+version: 1.0.0
+authors:
+  - name: "BCK Sign Uncertainty Lean 4 Project"
+license: Apache-2.0
+abstract: "Lean 4 proof sources and exact arithmetic input generators for a degree-16384 upper-bound certificate."

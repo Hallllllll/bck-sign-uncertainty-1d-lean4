@@ -1,0 +1,34 @@
+# Generated Lean, Python and local environment data
+.lake/
+*.olean
+*.ilean
+*.olean.*
+*.ilean.*
+*.trace
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Regenerated certificate corpora and interrupted stages
+/compact_cert/
+/tail_cert/
+.bck-inputs-*/
+*.bin
+
+# Archives and volatile local output
+*.zip
+*.tar
+*.tar.*
+*.tgz
+*.gz
+*.bz2
+*.xz
+*.zst
+*.7z
+*.log
+*.tmp
+*.swp
+*.pid
+*.prof
+.DS_Store
